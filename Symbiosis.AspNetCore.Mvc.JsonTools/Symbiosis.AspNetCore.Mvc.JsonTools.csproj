@@ -7,14 +7,17 @@
 		<Authors>Rafsanul Hasan</Authors>
 		<Company>Symbiosis ICT Solutions</Company>
 		<Copyright>Copyright (C) 2018, SICS</Copyright>
-		<PackageProjectUrl>https://github.com/sicsbd/JsonTools</PackageProjectUrl>
-		<RepositoryUrl>https://github.com/sicsbd/JsonToolsJson, Rest, API,</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/sicsbd/JsonTools/tree/dev/Symbiosis.AspNetCore.Mvc.JsonTools</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/sicsbd/JsonToolsJson, Rest, API</RepositoryUrl>
 		<PackageTags>Json, Rest, Api, Search, Sort, Paging</PackageTags>
 		<PackageLicenseUrl>https://github.com/sicsbd/JsonTools/blob/master/LICENSE</PackageLicenseUrl>
+		<Version>1.0.1</Version>
+		<AssemblyVersion>1.0.1.0</AssemblyVersion>
 	</PropertyGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\Symbiosis.AspNetCore.Mvc.JsonTools.Abstractions\Symbiosis.AspNetCore.Mvc.JsonTools.Abstractions.csproj" Version="1.0.0" />
+	  <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.1.1" />
+	  <PackageReference Include="Symbiosis.AspNetCore.Mvc.JsonTools.Abstractions" Version="1.0.0" />
 	</ItemGroup>
 
 </Project>
