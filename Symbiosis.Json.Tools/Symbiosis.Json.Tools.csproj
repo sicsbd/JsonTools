@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Symbiosis.Json.Tools.Abstractions\Symbiosis.Json.Tools.Abstractions.csproj" Version="1.0.0" />
+	</ItemGroup>
+
+</Project>
