@@ -2,6 +2,14 @@
 
 	<PropertyGroup>
 		<TargetFramework>netstandard2.0</TargetFramework>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+		<Authors>Rafsanul Hasan</Authors>
+		<Company>Symbiosis ICT Solutions</Company>
+		<Copyright>Copyright (C) 2018, SICS</Copyright>
+		<PackageProjectUrl>https://github.com/sicsbd/JsonTools</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/sicsbd/JsonToolsJson, Rest, API,</RepositoryUrl>
+		<PackageTags>Json, Rest, Api, Search, Sort, Paging</PackageTags>
 	</PropertyGroup>
 
 	<ItemGroup>
