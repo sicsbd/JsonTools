@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Authors>Rafsanul Hasan</Authors>
+    <Company>Symbiosis ICT solutions</Company>
+    <Copyright>Copyright (C) 2018, SICS</Copyright>
+    <PackageLicenseUrl>https://github.com/sicsbd/JsonTools/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/sicsbd/JsonTools/tree/dev/Symbiosis.AspNetCore.Mvc.JsonTools.Abstractions</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/sicsbd/JsonTools</RepositoryUrl>
+    <Version>1.0.4</Version>
+    <AssemblyVersion>1.0.4.0</AssemblyVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.ComponentModel.Annotations" Version="4.5.0" />
+  </ItemGroup>
+
+</Project>
