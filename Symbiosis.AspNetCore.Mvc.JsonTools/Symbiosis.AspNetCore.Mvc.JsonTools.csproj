@@ -11,8 +11,8 @@
 		<RepositoryUrl>https://github.com/sicsbd/JsonToolsJson, Rest, API</RepositoryUrl>
 		<PackageTags>Json, Rest, Api, Search, Sort, Paging</PackageTags>
 		<PackageLicenseUrl>https://github.com/sicsbd/JsonTools/blob/master/LICENSE</PackageLicenseUrl>
-		<Version>1.0.1</Version>
-		<AssemblyVersion>1.0.1.0</AssemblyVersion>
+		<Version>1.0.2</Version>
+		<AssemblyVersion>1.0.2.0</AssemblyVersion>
 	</PropertyGroup>
 
 	<ItemGroup>
