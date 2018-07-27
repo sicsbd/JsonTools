@@ -7,7 +7,6 @@ using System.Reflection;
 namespace Microsoft.AspNetCore.Mvc
 {
 	using Abstractions;
-	using Attributes;
 
 	public class SearchOptionsProcessor<T, TEntity> 
 		: IQueryStringOptionsProcessor<T, TEntity, SearchTerm> 
