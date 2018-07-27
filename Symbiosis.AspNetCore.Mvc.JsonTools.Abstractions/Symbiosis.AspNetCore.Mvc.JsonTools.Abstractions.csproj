@@ -10,8 +10,8 @@
     <PackageLicenseUrl>https://github.com/sicsbd/JsonTools/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/sicsbd/JsonTools/tree/dev/Symbiosis.AspNetCore.Mvc.JsonTools.Abstractions</PackageProjectUrl>
     <RepositoryUrl>https://github.com/sicsbd/JsonTools</RepositoryUrl>
-    <Version>1.0.2</Version>
-    <AssemblyVersion>1.0.2.0</AssemblyVersion>
+    <Version>1.0.3</Version>
+    <AssemblyVersion>1.0.3.0</AssemblyVersion>
   </PropertyGroup>
 
   <ItemGroup>
