@@ -10,10 +10,11 @@
 		<PackageProjectUrl>https://github.com/sicsbd/JsonTools</PackageProjectUrl>
 		<RepositoryUrl>https://github.com/sicsbd/JsonToolsJson, Rest, API,</RepositoryUrl>
 		<PackageTags>Json, Rest, Api, Search, Sort, Paging</PackageTags>
+		<PackageLicenseUrl>https://github.com/sicsbd/JsonTools/blob/master/LICENSE</PackageLicenseUrl>
 	</PropertyGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\Symbiosis.Json.Tools.Abstractions\Symbiosis.Json.Tools.Abstractions.csproj" Version="1.0.0" />
+		<ProjectReference Include="..\Symbiosis.AspNetCore.Mvc.JsonTools.Abstractions\Symbiosis.AspNetCore.Mvc.JsonTools.Abstractions.csproj" Version="1.0.0" />
 	</ItemGroup>
 
 </Project>
