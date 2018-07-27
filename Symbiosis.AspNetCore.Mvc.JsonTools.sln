@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Symbiosis.AspNetCore.Mvc.JsonTools", "Symbiosis.AspNetCore.Mvc.JsonTools\Symbiosis.AspNetCore.Mvc.JsonTools.csproj", "{B1C28CFD-5854-4819-9280-9ED41D35F2C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Symbiosis.AspNetCore.Mvc.JsonTools.Abstractions", "Symbiosis.AspNetCore.Mvc.JsonTools.Abstractions\Symbiosis.AspNetCore.Mvc.JsonTools.Abstractions.csproj", "{0838355C-5E72-471E-A176-3B2E4CE07B04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1C28CFD-5854-4819-9280-9ED41D35F2C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1C28CFD-5854-4819-9280-9ED41D35F2C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1C28CFD-5854-4819-9280-9ED41D35F2C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1C28CFD-5854-4819-9280-9ED41D35F2C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0838355C-5E72-471E-A176-3B2E4CE07B04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0838355C-5E72-471E-A176-3B2E4CE07B04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0838355C-5E72-471E-A176-3B2E4CE07B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0838355C-5E72-471E-A176-3B2E4CE07B04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F0CAE7B-C81F-4C7A-8D27-921B40423017}
+	EndGlobalSection
+EndGlobal
