@@ -19,7 +19,7 @@
 	<ItemGroup>
 	  <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.1.1" />
 	  <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="2.1.1" />
-	  <PackageReference Include="Symbiosis.AspNetCore.Mvc.JsonTools.Abstractions" Version="1.0.1" />
+	  <PackageReference Include="Symbiosis.AspNetCore.Mvc.JsonTools.Abstractions" Version="1.0.3" />
 	</ItemGroup>
 
 </Project>
