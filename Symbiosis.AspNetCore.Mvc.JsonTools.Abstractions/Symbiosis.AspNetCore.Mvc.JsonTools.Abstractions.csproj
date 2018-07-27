@@ -8,8 +8,9 @@
     <Company>Symbiosis ICT solutions</Company>
     <Copyright>Copyright (C) 2018, SICS</Copyright>
     <PackageLicenseUrl>https://github.com/sicsbd/JsonTools/blob/master/LICENSE</PackageLicenseUrl>
-    <PackageProjectUrl>https://github.com/sicsbd/JsonTools/tree/dev/Symbiosis.Json.Tools.Abstractions</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/sicsbd/JsonTools/tree/dev/Symbiosis.AspNetCore.Mvc.JsonTools.Abstractions</PackageProjectUrl>
     <RepositoryUrl>https://github.com/sicsbd/JsonTools</RepositoryUrl>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
